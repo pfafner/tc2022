@@ -54,7 +54,9 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 
 ### Textos:
 
-* [J. Hopcroft, R. Motwani, J. Ullman (2007). *Automata Theory, Languages and Computation*.](){:target="_blank"}
+* [J. Hopcroft, R. Motwani, J. Ullman (2006). *Automata Theory, Languages and Computation*.](http://library.lol/main/CAC409C1878AC487AF3A39687C924FFC){:target="_blank"}
+
+* [J. Hopcroft, R. Motwani, J. Ullman (2007). *Teoría de automatas, lenguajes y computación*.](libros/Hopcroft_Ullman.pdf){:target="_blank"}
 
 * [H. Lewis, C. Papadimitriou (1998). *Elements of the Theory of Computation*.](){:target="_blank"}
 
