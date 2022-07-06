@@ -65,7 +65,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 
 * [J. G. Brookshear (1988). *Theory of Computation: Formal Languages, Automata, and Complexity*.](http://library.lol/main/EE4EB25060E76527E13F904C99DE2D98){:target="_blank"}
 
-* [J. G. Brookshear (1993). *Teoría de la Computación, Lenguajes Formales, Autómatas y Complejidad*.](){:target="_blank"}
+* [J. G. Brookshear (1993). *Teoría de la Computación, Lenguajes Formales, Autómatas y Complejidad*.](libros/Brookshear.djvu){:target="_blank"}
 
 * [R. de Castro Corgi (2004). *Teoría de la Computación, Lenguajes Autómatas, Gramáticas*.](){:target="_blank"}
 
@@ -77,6 +77,5 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 ### Referencias avanzadas:
 
 * [C. Papadimitriou (19??). *Computational Complexity*.](){:target="_blank"}
-
 
 ---
