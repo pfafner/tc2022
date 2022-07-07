@@ -76,6 +76,6 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 
 ### Referencias avanzadas:
 
-* [C. Papadimitriou (19??). *Computational Complexity*.](){:target="_blank"}
+* [C. Papadimitriou, K. Steiglitz (1994). *Computational Complexity*.](http://library.lol/main/2E57188472ACBBBB8B5860A1327FBA94){:target="_blank"}
 
 ---
