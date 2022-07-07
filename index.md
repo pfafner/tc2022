@@ -67,11 +67,11 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 
 * [J. G. Brookshear (1993). *Teoría de la Computación, Lenguajes Formales, Autómatas y Complejidad*.](libros/Brookshear.djvu){:target="_blank"}
 
-* [R. de Castro Corgi (2004). *Teoría de la Computación, Lenguajes Autómatas, Gramáticas*.](){:target="_blank"}
+* [R. de Castro Korgi (2004). *Teoría de la Computación, Lenguajes Autómatas, Gramáticas*.](http://library.lol/main/60501AE7549BF7B67BB11709240CE5B7){:target="_blank"}
 
-* [E. Gaudioso Vásquez *et al.* (2017). *Introduccón a la Teoría de Autómatas, Gramáticas y Lenguajes*.](){:target="_blank"}
+* [E. Gaudioso Vásquez *et al.* (2017). *Introduccón a la Teoría de Autómatas, Gramáticas y Lenguajes*.](http://library.lol/main/7B969A8129A16B2F3679F4D4A20FFF5D){:target="_blank"}
 
-* [H. Pedrycz (2022). *Automata Theory and Formal Languages*.](){:target="_blank"}
+* [H. Pedrycz (2022). *Automata Theory and Formal Languages*.](http://library.lol/main/AEC2FE8B00CE16488082B14183D31727){:target="_blank"}
 
 
 ### Referencias avanzadas:
