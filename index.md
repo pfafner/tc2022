@@ -45,7 +45,8 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 
   **No.**  | **Fecha**    | **Tópicos**                                                                    | **Recursos**
   -------- | ------------ | ------------------------------------------------------------------------------ |  -------------------------------------
-  01       | 06.07.2021   | Introducción. Aspectos generales de la teoría de la computación. <br/>         |
+  00       | 06.07.2021   | Introducción. Aspectos generales de la teoría de la computación. <br/>         |
+  01       | 11.07.2021   |          |
  
 
 
