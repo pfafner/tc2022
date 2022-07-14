@@ -49,7 +49,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   01       | 11.07.2021   | Alfabetos, palabras y lenguajes. Autómatas finitos deterministas (AFD). <br/> [Aula 01a](aulas/Aula01.pdf){:target="_blank"} [Aula 01b](aulas/Aula0b.pdf){:target="_blank"}
 | Secciones 1.5 y 2.1 Hopcroft.
   02       | 13.07.2021   | Expresiones regulares. Formalismo de los AFD. <br/>                            | Sección 2.1 Hopcroft.
-  L1       | 13.07.2021   | Lab 01. <br/> [Lab 01](){:target="_blank"}                                     | 
+  L1       | 13.07.2021   | Lab 01. <br/> [Lab 01](labs/Lab01.pdf){:target="_blank"}                       | 
  
 
 
