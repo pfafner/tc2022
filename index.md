@@ -52,7 +52,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   03       | 18.07.2021   | Función de transición extendida. Derivaciones. Simulación de un AFD. [Aula 03](aulas/Aula03.pdf){:target="_blank"} | Capítulo 2 Hopcroft.
   04       | 20.07.2021   | Autómatas finitos no-deterministas (AFN). Equivalencia entre AFD y AFN. [Aula 04](aulas/Aula04.pdf){:target="_blank"} | Capítulo 2 Hopcroft.
   L2       | 20.07.2021   | Lab 02. <br/>                                                                  | [Lab 02](labs/Lab02.pdf){:target="_blank"}
-  05       | 25.07.2021   | epsilon-AFN. Conversión de *regexp* a AFN: Algoritmo de Thompson               | Capítulo 3 Hopcroft.
+  05       | 25.07.2021   | epsilon-AFN. Conversión de *regexp* a AFN: Algoritmo de Thompson. [Aula 05a](aulas/Aula05a.pdf){:target="_blank"} [Aula 05b](aulas/Aula05b.pdf){:target="_blank"} | Capítulo 3 Hopcroft.
 
 
 # Referencias
