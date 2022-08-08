@@ -55,6 +55,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   05       | 25.07.2022   | epsilon-AFN. Conversión de *regexp* a AFN: Algoritmo de Thompson. [Aula 05a](aulas/Aula05a.pdf){:target="_blank"} [Aula 05b](aulas/Aula05b.pdf){:target="_blank"} | Capítulo 3 Hopcroft.
   06       | 27.07.2022   | Conversión de AFN a regexp: Algoritmo de reducción. Lema de Arden. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} [Aula 06_notas](aulas/Aula06_notas.pdf){:target="_blank"}  | Capítulo 3 Hopcroft.
   L3       | 03.08.2022   | Lab 03. <br/>                                                                  | [Lab 03](labs/Lab03.pdf){:target="_blank"}
+  07       | 03.08.2022   | Repaso de algoritmos en autómatas. <br/>                                       | 
 
 
 # Referencias
