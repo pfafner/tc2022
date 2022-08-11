@@ -57,7 +57,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   L3       | 03.08.2022   | Lab 03. <br/>                                                                  | [Lab 03](labs/Lab03.pdf){:target="_blank"}
   07       | 03.08.2022   | Repaso de algoritmos en autómatas. <br/>                                       | 
   08       | 08.08.2022   | Propiedades de lenguajes regulares. *Pumping Lemma*. <br/>                     | 
-
+  09       | 10.08.2022   | Examen Corto 1.                                                                | [Corto 01](cortos/Corto01.pdf){:target="_blank"}
 
 # Referencias
 <div id='id-ref'/> 
