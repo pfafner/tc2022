@@ -54,11 +54,13 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   L2       | 20.07.2022   | Lab 02. <br/>                                                                  | [Lab 02](labs/Lab02.pdf){:target="_blank"}
   05       | 25.07.2022   | epsilon-AFN. Conversión de *regexp* a AFN: Algoritmo de Thompson. [Aula 05a](aulas/Aula05a.pdf){:target="_blank"} [Aula 05b](aulas/Aula05b.pdf){:target="_blank"} | Capítulo 3 Hopcroft.
   06       | 27.07.2022   | Conversión de AFN a regexp: Algoritmo de reducción. Lema de Arden. <br/> [Aula 06](aulas/Aula06.pdf){:target="_blank"} [Aula 06_notas](aulas/Aula06_notas.pdf){:target="_blank"}  | Capítulo 3 Hopcroft.
-  L3       | 03.08.2022   | Lab 03. <br/>                                                                  | [Lab 03](labs/Lab03.pdf){:target="_blank"}
   07       | 03.08.2022   | Repaso de algoritmos en autómatas. <br/>                                       | 
+  L3       | 03.08.2022   | Lab 03. <br/>                                                                  | [Lab 03](labs/Lab03.pdf){:target="_blank"}
   08       | 08.08.2022   | Propiedades de lenguajes regulares. *Pumping Lemma*. <br/> [Aula 07a](aulas/Aula07a.pdf){:target="_blank"} | 
   09       | 10.08.2022   | Examen Corto 1.                                                                | [Corto 01](cortos/Corto01.pdf){:target="_blank"}
-
+  10       | 17.08.2022   | Equivalencia de lenguajes regulares. Propiedades de cerradura.  | 
+  L4       | 17.08.2022   | Lab 04. <br/>                                                                  | [Lab 04](labs/Lab04.pdf){:target="_blank"}
+  
 # Referencias
 <div id='id-ref'/> 
 
