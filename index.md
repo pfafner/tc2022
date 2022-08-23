@@ -66,11 +66,11 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 # Lecturas complementarias (Autores: T. Gálvez, B. Pojoy, P. Mejía y A. Reyes-Figueroa).
 <div id='id-notas'/>
 
-  **No.**  | **Fecha**    | **Tópicos**                                                                    | **Recursos**
-  -------- | ------------ | ------------------------------------------------------------------------------ |  -------------------------------------
-  01       | 06.07.2022   | Introducción. Aspectos generales de la teoría de la computación. <br/>         |
-  02       | 11.07.2022   | Alfabetos, palabras y lenguajes. Autómatas finitos deterministas (AFD). <br/> [Aula 01a](aulas/Aula01.pdf){:target="_blank"} [Aula 01b](aulas/Aula01b.pdf){:target="_blank"} | Secciones 1.5 y 2.1 Hopcroft.
-  03       | 13.07.2022   | Expresiones regulares. Formalismo de los AFD. <br/> [Aula 02a](aulas/Aula02a.pdf){:target="_blank"} [Aula 02b](aulas/Aula02b.pdf){:target="_blank"} | Sección 2.1 Hopcroft.
+  **No.**  | **Fecha**    | **Tópicos**                                                                | **Recursos**
+  -------- | ------------ | -------------------------------------------------------------------------- |  -------------------------------------
+  01       | 25.07.2022   | Lectura 1 - Expresiones regulares y AFNs.                                  | [Lectura 1](lectures/Lectura01.pdf){:target="_blank"}
+  02       | 08.08.2022   | Lectura 2 - Conversión de AFNs a AFDs y construcción directa del AFD.      | [Lectura 2](lectures/Lectura02.pdf){:target="_blank"}
+  03       | 22.08.2022   | Lectura 3 - Minimización de AFDs.                                          | [Lectura 3](lectures/Lectura03.pdf){:target="_blank"}
 
   
 # Referencias
