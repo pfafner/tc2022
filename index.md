@@ -60,6 +60,8 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   09       | 10.08.2022   | Examen Corto 1.                                                                | [Corto 01](cortos/Corto01.pdf){:target="_blank"}
   10       | 17.08.2022   | Equivalencia de lenguajes regulares. Propiedades de cerradura. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Capítulo 3 Hopcroft.
   L4       | 17.08.2022   | Lab 04. <br/>                                                                  | [Lab 04](labs/Lab04.pdf){:target="_blank"}
+  11       | 22.08.2022   | Propiedades de Decisión. Algoritmo de minimización de AFD. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Capítulo 3 Hopcroft.
+  
   
 # Referencias
 <div id='id-ref'/> 
