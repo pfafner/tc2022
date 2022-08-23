@@ -61,7 +61,17 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   10       | 17.08.2022   | Equivalencia de lenguajes regulares. Propiedades de cerradura. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Capítulo 3 Hopcroft.
   L4       | 17.08.2022   | Lab 04. <br/>                                                                  | [Lab 04](labs/Lab04.pdf){:target="_blank"}
   11       | 22.08.2022   | Propiedades de Decisión. Algoritmo de minimización de AFD. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Capítulo 3 Hopcroft.
-  
+
+
+# Lecturas complementarias (Autores: T. Gálvez, B. Pojoy, P. Mejía y A. Reyes-Figueroa).
+<div id='id-notas'/>
+
+  **No.**  | **Fecha**    | **Tópicos**                                                                    | **Recursos**
+  -------- | ------------ | ------------------------------------------------------------------------------ |  -------------------------------------
+  01       | 06.07.2022   | Introducción. Aspectos generales de la teoría de la computación. <br/>         |
+  02       | 11.07.2022   | Alfabetos, palabras y lenguajes. Autómatas finitos deterministas (AFD). <br/> [Aula 01a](aulas/Aula01.pdf){:target="_blank"} [Aula 01b](aulas/Aula01b.pdf){:target="_blank"} | Secciones 1.5 y 2.1 Hopcroft.
+  03       | 13.07.2022   | Expresiones regulares. Formalismo de los AFD. <br/> [Aula 02a](aulas/Aula02a.pdf){:target="_blank"} [Aula 02b](aulas/Aula02b.pdf){:target="_blank"} | Sección 2.1 Hopcroft.
+
   
 # Referencias
 <div id='id-ref'/> 
