@@ -58,7 +58,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   L3       | 03.08.2022   | Lab 03. <br/>                                                                  | [Lab 03](labs/Lab03.pdf){:target="_blank"}
   08       | 08.08.2022   | Propiedades de lenguajes regulares. *Pumping Lemma*. <br/> [Aula 07a](aulas/Aula07a.pdf){:target="_blank"} | 
   09       | 10.08.2022   | Examen Corto 1.                                                                | [Corto 01](cortos/Corto01.pdf){:target="_blank"}
-  10       | 17.08.2022   | Equivalencia de lenguajes regulares. Propiedades de cerradura.  | Capítulo 3 Hopcroft.
+  10       | 17.08.2022   | Equivalencia de lenguajes regulares. Propiedades de cerradura. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Capítulo 3 Hopcroft.
   L4       | 17.08.2022   | Lab 04. <br/>                                                                  | [Lab 04](labs/Lab04.pdf){:target="_blank"}
   
 # Referencias
