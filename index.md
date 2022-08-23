@@ -63,7 +63,8 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   11       | 22.08.2022   | Propiedades de Decisión. Algoritmo de minimización de AFD. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Capítulo 3 Hopcroft.
 
 
-# Lecturas complementarias (Autores: T. Gálvez, B. Pojoy, P. Mejía y A. Reyes-Figueroa).
+# Lecturas complementarias
+### (Autores: T. Gálvez, B. Pojoy, P. Mejía y A. Reyes-Figueroa).
 <div id='id-notas'/>
 
   **No.**  | **Fecha**    | **Tópicos**                                                                | **Recursos**
@@ -71,6 +72,14 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   01       | 25.07.2022   | Lectura 1 - Expresiones regulares y AFNs.                                  | [Lectura 1](lectures/Lectura01.pdf){:target="_blank"}
   02       | 08.08.2022   | Lectura 2 - Conversión de AFNs a AFDs y construcción directa del AFD.      | [Lectura 2](lectures/Lectura02.pdf){:target="_blank"}
   03       | 22.08.2022   | Lectura 3 - Minimización de AFDs.                                          | [Lectura 3](lectures/Lectura03.pdf){:target="_blank"}
+
+
+# Proyectos
+<div id='id-projs'/>
+
+  **No.**  | **Fecha**    | **Tópicos**                                                                | **Recursos**
+  -------- | ------------ | -------------------------------------------------------------------------- |  -------------------------------------
+  1        | 22.08.2022   | Proyecto 1 - Algoritmos sobre AFDs, AFNs y *regexp*.                       | [Proyecto 1](projs/Proyecto_1_2022.pdf){:target="_blank"} <br/>  **Fecha de Entrega: Miércoles 21 de septiembre de 2022.**
 
   
 # Referencias
