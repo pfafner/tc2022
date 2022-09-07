@@ -64,7 +64,9 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   12       | 24.08.2022   | Repaso de algoritmo de minimización. <br/>  | Capítulo 3 Hopcroft.
   L5       | 24.08.2022   | Lab 05. <br/>                                                                  | [Lab 05](labs/Lab05.pdf){:target="_blank"}
   13       | 31.08.2022   | Gramáticas libres del contexto (*CFG*). <br/>  | 
-  14       | 05.09.2022   | Árboles sintácticos (*parse trees*). <br/>  | 
+  14       | 05.09.2022   | Árboles sintácticos (*parse trees*). Ambigüedad. <br/>  | 
+  15       | 05.09.2022   | Simplificación (*parse trees*). <br/>  | 
+  L6       | 05.09.2022   | Árboles sintácticos (*parse trees*). <br/>  | 
   
   
 # Lecturas complementarias
