@@ -86,7 +86,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 
   **No.**  | **Fecha**    | **Tópicos**                                                           | **Recursos**
   -------- | ------------ | --------------------------------------------------------------------- |  -------------------------------------
-  1        | 22.08.2022   | Proyecto 1 - Algoritmos sobre AFDs, AFNs y *regexp*.                  | [Proyecto 1](projects/Proyecto_1_2022.pdf){:target="_blank"} <br/>  **Fecha de Entrega: Miércoles 21 de septiembre de 2022.**
+  1        | 22.08.2022   | Proyecto 1 - Algoritmos sobre AFDs, AFNs y *regexp*.                  | [Proyecto 1](projects/Proyecto_1_2022.pdf){:target="_blank"} <br/>  **Fecha de Entrega: Miércoles 28 de septiembre de 2022.**
 
   
 # Referencias
