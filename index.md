@@ -65,9 +65,9 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   L5       | 24.08.2022   | Lab 05. <br/>                                                                  | [Lab 05](labs/Lab05.pdf){:target="_blank"}
   13       | 31.08.2022   | Gramáticas libres del contexto (*CFG*). <br/>  | 
   14       | 05.09.2022   | Árboles sintácticos (*parse trees*). Ambigüedad. <br/>  | 
-  15       | 07.09.2022   | Remoción de Ambigüedad. Simplificación de gramáticas. <br/>  | 
+  15       | 07.09.2022   | Remoción de Ambigüedad. <br/>  | 
   L6       | 07.09.2022   | Lab 06. <br/>  | [Lab 06](labs/Lab06.pdf){:target="_blank"}
-  .        |              |                |
+  16       | 20.09.2022   | Algoritmo de simplificación de gramáticas.   |
   
   
 # Lecturas complementarias
