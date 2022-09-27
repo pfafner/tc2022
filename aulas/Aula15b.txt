@@ -1,0 +1,192 @@
+Simplificación de CFG
+
+1)  Remover producciones-épsilon
+
+Ejemplo:    
+
+			S -> ABCd
+			A -> BC
+			B -> bB | e
+			C -> cC | e
+
+	Anulables:
+
+	paso 1: remover la transición B -> e
+
+			S -> ABCd | ACd
+			A -> BC | C
+			B -> bB | b
+			C -> cC | e
+
+	paso 2: remover la transición C -> e
+
+			S -> ABCd | ACd | ABd
+			A -> BC | C
+			B -> bB | b
+			C -> cC | c
+
+	paso 3: remover la transición A -> BC
+
+			S -> ABCd | ACd | ABd | BCd | Ad | Bd | Cd | d
+			A -> BC | C | B
+			B -> bB | b
+			C -> cC | c
+
+
+
+2)  Remover producciones unarias
+
+Ejemplo:    
+
+			S -> Aa | B
+			A -> B | b
+			B -> A | a
+
+	Producciones unarias:		S -> B
+								A -> B
+								B -> A
+
+	paso 1:  Mantenemos las producciones no-unarias
+
+		S -> Aa
+		A -> b
+		B -> a
+
+	paso 2: añadimos transiciones provenientes de S -> B   ( S -> B -> a)
+
+			S -> Aa | a
+			A -> b
+			B -> a
+
+	paso 3: añadimos transiciones provenientes de A -> B   ( A -> B -> a )
+
+			S -> Aa | a
+			A -> b | a
+			B -> a
+
+	paso 4: añadimos transiciones provenientes de B -> A   (B -> A -> b)
+
+			S -> Aa | a
+			A -> b | a
+			B -> a | b
+
+	paso 5: añadimos transiciones provenientes de S -> A   ( S -> B -> A -> b)
+
+			S -> Aa | a | b
+			A -> b | a
+			B -> a | b
+
+
+
+
+
+3)  Remover producciones no terminales
+
+Ejemplo:    
+
+			S -> AB | c
+			A -> aA | D | a
+			B -> AB
+			D -> E
+			E -> cE | abb
+
+	paso base:		S -> c
+					A -> a
+					E -> abb
+
+	paso inductivo:	  A -> aA
+					  E -> cE
+					  D -> E
+					  A -> D
+
+	simplificación:
+
+			S -> c
+			A -> aA | D | a
+			D -> E
+			E -> cE | abb
+
+
+
+	Producciones no-terminales: 
+
+	paso 1: removemos todo lo que tenga inicio B
+
+			S -> c
+			A -> aA | D | a
+			D -> E
+			E - > cE 
+
+	paso 2: removemos todo lo que tenga inicio D
+
+			S -> c
+			A -> aA | D | a
+			E - > cE 
+
+	paso 3: removemos todo lo que tenga inicio E
+
+			S -> c
+			A -> aA | D | a
+
+
+
+4)  Remover símbolos no alcanzables
+
+Ejemplo:    
+
+			S -> AB
+			A -> aA | a
+			B -> b | x
+			C -> a
+			D -> b 
+
+	paso base:  S es alcanzable
+	paso 1:     A, B son alcanzables (desde S)
+	paso 2:     a es alcanzable (desde A)
+    paso 3:     b, x son alcanzables (desde B)
+
+    no alcanzables:  C, D
+
+			S -> AB
+			A -> aA | a
+			B -> b | x
+			
+
+
+
+	Símbolos no alcanzables: 
+
+	paso 1: removemos todo lo que tenga inicio C
+
+			S -> AB
+			A -> aA | a
+			B -> b | x
+			D -> b 
+
+	paso 2: removemos todo lo que tenga inicio D
+
+			S -> AB
+			A -> aA | a
+			B -> b | x
+
+
+
+
+
+
+5) Remover símbolos sin uso (useless)
+
+Ejemplo:    
+
+			S -> abS | abA | abB
+			A -> cd
+			B -> aB
+			C -> dC
+
+	Símbolos sin uso: 
+
+	paso 1: removemos todo lo que tenga inicio B y C
+
+			S -> abS | abA
+			A -> cd
+
