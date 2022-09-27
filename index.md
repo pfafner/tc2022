@@ -67,7 +67,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   14       | 05.09.2022   | Árboles sintácticos (*parse trees*). Ambigüedad. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} | 
   15       | 07.09.2022   | Remoción de Ambigüedad. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | 
   L6       | 07.09.2022   | Lab 06. <br/>  | [Lab 06](labs/Lab06.pdf){:target="_blank"}
-  16       | 21.09.2022   | Algoritmo de simplificación de gramáticas. [Aula 15](aulas/Aula15.pdf){:target="_blank"} |
+  16       | 21.09.2022   | Algoritmo de simplificación de gramáticas. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"} |
   
   
 # Lecturas complementarias
@@ -88,6 +88,19 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   -------- | ------------ | --------------------------------------------------------------------- |  -------------------------------------
   1        | 22.08.2022   | Proyecto 1 - Algoritmos sobre AFDs, AFNs y *regexp*.                  | [Proyecto 1](projects/Proyecto_1_2022.pdf){:target="_blank"} <br/>  **Fecha de Entrega: Miércoles 28 de septiembre de 2022.**
 
+  **No.**  | **Hora**     | **Grupo**       
+  -------- | ------------ | ----------------
+  1        | 7:00pm       | Equipo 3
+  2        | 7:15pm       | Equipo 5
+  3        | 7:30pm       | Equipo 9
+  4        | 7:45pm       | Equipo 4
+  5        | 8:00pm       | Equipo 6
+  6        | 8:15pm       | Equipo 7
+  7        | 8:30pm       | Equipo 8
+  8        | 8:45pm       | Equipo 1
+  9        | 9:00pm       | Equipo 2
+  10       | 9:15pm       | Equipo 10
+  
   
 # Referencias
 <div id='id-ref'/> 
