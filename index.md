@@ -61,13 +61,13 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   10       | 17.08.2022   | Equivalencia de lenguajes regulares. Propiedades de cerradura. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Capítulo 3 Hopcroft.
   L4       | 17.08.2022   | Lab 04. <br/>                                                                  | [Lab 04](labs/Lab04.pdf){:target="_blank"}
   11       | 22.08.2022   | Propiedades de Decisión. Algoritmo de minimización de AFD. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Capítulo 3 Hopcroft.
-  12       | 24.08.2022   | Repaso de algoritmo de minimización. <br/>  | Capítulo 3 Hopcroft.
+  12       | 24.08.2022   | Repaso de algoritmo de minimización. <br/> [Aula 10](aulas/Aula10.pdf){:target="_blank"} | Capítulo 3 Hopcroft.
   L5       | 24.08.2022   | Lab 05. <br/>                                                                  | [Lab 05](labs/Lab05.pdf){:target="_blank"}
-  13       | 31.08.2022   | Gramáticas libres del contexto (*CFG*). <br/>  | 
-  14       | 05.09.2022   | Árboles sintácticos (*parse trees*). Ambigüedad. <br/>  | 
-  15       | 07.09.2022   | Remoción de Ambigüedad. <br/>  | 
+  13       | 31.08.2022   | Gramáticas libres del contexto (*CFG*). <br/> [Aula 12](aulas/Aula12.pdf){:target="_blank"} | 
+  14       | 05.09.2022   | Árboles sintácticos (*parse trees*). Ambigüedad. <br/> [Aula 13](aulas/Aula13.pdf){:target="_blank"} | 
+  15       | 07.09.2022   | Remoción de Ambigüedad. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | 
   L6       | 07.09.2022   | Lab 06. <br/>  | [Lab 06](labs/Lab06.pdf){:target="_blank"}
-  16       | 20.09.2022   | Algoritmo de simplificación de gramáticas.   |
+  16       | 21.09.2022   | Algoritmo de simplificación de gramáticas. [Aula 15](aulas/Aula15.pdf){:target="_blank"} |
   
   
 # Lecturas complementarias
