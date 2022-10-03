@@ -70,7 +70,8 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   16       | 21.09.2022   | Algoritmo de simplificación de gramáticas. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"}  [Ejemplos](aulas/Aula15b.txt){:target="_blank"}|
   17       | 26.09.2022   | Autómatas de Pila. <br/> | 
   18       | 28.09.2022   | Presentación del primer proyecto. <br/> | 
-  
+  19       |   |   | 
+    
   
 # Lecturas complementarias
 ### (Autores: T. Gálvez, B. Pojoy, P. Mejía y A. Reyes-Figueroa).
