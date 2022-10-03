@@ -68,7 +68,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   15       | 07.09.2022   | Remoción de Ambigüedad. <br/> [Aula 14](aulas/Aula14.pdf){:target="_blank"} | 
   L6       | 07.09.2022   | Lab 06. <br/>  | [Lab 06](labs/Lab06.pdf){:target="_blank"}
   16       | 21.09.2022   | Algoritmo de simplificación de gramáticas. <br/> [Aula 15](aulas/Aula15.pdf){:target="_blank"}  [Ejemplos](aulas/Aula15b.txt){:target="_blank"}|
-  17       | 26.09.2022   | Autómatas de Pila. <br/> | 
+  17       | 26.09.2022   | Autómatas de Pila. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} [Aula 17](aulas/Aula17.pdf){:target="_blank"} | 
   18       | 28.09.2022   | Presentación del primer proyecto. <br/> | 
   19       |   |   | 
     
