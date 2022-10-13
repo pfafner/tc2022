@@ -71,7 +71,9 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   17       | 26.09.2022   | Autómatas de Pila. <br/> [Aula 16](aulas/Aula16.pdf){:target="_blank"} [Aula 17](aulas/Aula17.pdf){:target="_blank"} | 
   18       | 28.09.2022   | Presentación del primer proyecto. <br/> | 
   19       | 03.10.2022   | Análisis de algoritmos. Notaciones asintóticas. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} | 
+  19       | 05.10.2022   | Ejemplos de notación asintótica. <br/>   | 
   L6       | 05.10.2022   | Lab 07. <br/>  | [Lab 07](labs/Lab07.pdf){:target="_blank"}
+  L6       | 12.10.2022   | Máquinas de Turing: motivación. <br/>  | 
     
   
 # Lecturas complementarias
