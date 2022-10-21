@@ -75,6 +75,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   L6       | 05.10.2022   | Lab 07. <br/>  | [Lab 07](labs/Lab07.pdf){:target="_blank"}
   20       | 12.10.2022   | Máquinas de Turing: motivación. <br/>  | 
   21       | 17.10.2022   | Máquinas de Turing II: formalización, transiciones. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | 
+  22       | 19.10.2022   | Ejemplos de máquinas de Turing. <br/>  | 
     
   
 # Lecturas complementarias
