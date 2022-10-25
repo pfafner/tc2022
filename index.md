@@ -73,7 +73,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   19       | 03.10.2022   | Análisis de algoritmos. Notaciones asintóticas. <br/> [Aula 18](aulas/Aula18.pdf){:target="_blank"} | 
   19       | 05.10.2022   | Ejemplos de notación asintótica. <br/>   | 
   L6       | 05.10.2022   | Lab 07. <br/>  | [Lab 07](labs/Lab07.pdf){:target="_blank"}
-  20       | 12.10.2022   | Máquinas de Turing: motivación. <br/>  | 
+  20       | 12.10.2022   | Máquinas de Turing: motivación. <br/> [Aula 20](aulas/Aula20.pdf){:target="_blank"} | 
   21       | 17.10.2022   | Máquinas de Turing II: formalización, transiciones. <br/> [Aula 21](aulas/Aula21.pdf){:target="_blank"} | 
   22       | 19.10.2022   | Ejemplos de máquinas de Turing. <br/> [Aula 22](aulas/Aula22.pdf){:target="_blank"} | 
   23       | 24.10.2022   | Más ejemplos de máquinas de Turing. <br/> |     
