@@ -57,7 +57,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   07       | 03.08.2022   | Repaso de algoritmos en autómatas. <br/>                                       | 
   L3       | 03.08.2022   | Lab 03. <br/>                                                                  | [Lab 03](labs/Lab03.pdf){:target="_blank"}
   08       | 08.08.2022   | Propiedades de lenguajes regulares. *Pumping Lemma*. <br/> [Aula 07a](aulas/Aula07a.pdf){:target="_blank"} | 
-  09       | 10.08.2022   | Examen Corto 1.                                                                | [Corto 01](cortos/Corto01.pdf){:target="_blank"}
+  09       | 10.08.2022   | Examen Corto 1.  | [Corto 01](cortos/Corto01.pdf){:target="_blank"}
   10       | 17.08.2022   | Equivalencia de lenguajes regulares. Propiedades de cerradura. <br/> [Aula 08](aulas/Aula08.pdf){:target="_blank"} | Capítulo 3 Hopcroft.
   L4       | 17.08.2022   | Lab 04. <br/>                                                                  | [Lab 04](labs/Lab04.pdf){:target="_blank"}
   11       | 22.08.2022   | Propiedades de Decisión. Algoritmo de minimización de AFD. <br/> [Aula 09](aulas/Aula09.pdf){:target="_blank"} | Capítulo 3 Hopcroft.
@@ -78,6 +78,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   22       | 19.10.2022   | Ejemplos de máquinas de Turing. <br/> [Aula 22](aulas/Aula22.pdf){:target="_blank"}  | 
   23       | 24.10.2022   | Más ejemplos de máquinas de Turing. <br/> [Aula 23](aulas/Aula23.pdf){:target="_blank"}  | 
   L8       | 26.10.2022   | Lab 08. <br/>  | [Lab 08](labs/Lab08.pdf){:target="_blank"}
+  24       | 26.10.2022   | Examen Corto 2.  | [Corto 02](cortos/Corto02.pdf){:target="_blank"} <br/> **Fecha de Entrega: lunes 31 de octubre.**
   
   
 # Lecturas complementarias
