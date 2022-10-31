@@ -98,20 +98,15 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 
   **No.**  | **Fecha**    | **Tópicos**                                                           | **Recursos**
   -------- | ------------ | --------------------------------------------------------------------- |  -------------------------------------
-  1        | 22.08.2022   | Proyecto 1 - Algoritmos sobre AFDs, AFNs y *regexp*.                  | [Proyecto 1](projects/Proyecto_1_2022.pdf){:target="_blank"} <br/>  **Fecha de Entrega: Miércoles 28 de septiembre de 2022.**
+  1        | 22.08.2022   | Proyecto 1 - Algoritmos sobre AFDs, AFNs y *regexp*.                  | [Proyecto 1](projects/Proyecto_1_2022.pdf){:target="_blank"}
+  .        | 28.09.2022   | Presentación y entrega de informe.                                    |
 
-  **No.**  | **Hora**     | **Grupo**       
-  -------- | ------------ | ----------------
-  1        | 7:00pm       | Equipo 3
-  2        | 7:15pm       | Equipo 5
-  3        | 7:30pm       | Equipo 9
-  4        | 7:45pm       | Equipo 4
-  5        | 8:00pm       | Equipo 6
-  6        | 8:15pm       | Equipo 7
-  7        | 8:30pm       | Equipo 8
-  8        | 8:45pm       | Equipo 1
-  9        | 9:00pm       | Equipo 2
-  10       | 9:15pm       | Equipo 10
+  
+  **No.**  | **Fecha**    | **Tópicos**                                                           | **Recursos**
+  -------- | ------------ | --------------------------------------------------------------------- |  -------------------------------------
+  2        | 31.10.2022   | Proyecto 2 - Algoritmo CYK, Funciones Lambda.                         | [Proyecto 2](projects/Proyecto_2_2022.pdf){:target="_blank"} 
+  .        | 23.11.2022   | Presentación.                                                         |
+  .        | 26.11.2022   | Entrega de informe final.                                             |
   
   
 # Referencias
