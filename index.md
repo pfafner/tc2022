@@ -79,7 +79,8 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   23       | 24.10.2022   | Más ejemplos de máquinas de Turing. <br/> [Aula 23](aulas/Aula23.pdf){:target="_blank"}  | 
   L8       | 26.10.2022   | Lab 08. <br/>  | [Lab 08](labs/Lab08.pdf){:target="_blank"}
   24       | 26.10.2022   | Examen Corto 2.  | [Corto 02](cortos/Corto02.pdf){:target="_blank"} <br/> **Fecha de Entrega: lunes 31 de octubre.**
-  25       | 31.10.2022   | Màquinas de Turing III: Extensiones.  | 
+  25       | 31.10.2022   | Máquinas de Turing III: Extensiones.  | 
+  26       |              |                                        | 
   
   
 # Lecturas complementarias
