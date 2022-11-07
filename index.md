@@ -80,8 +80,8 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   L8       | 26.10.2022   | Lab 08. <br/>  | [Lab 08](labs/Lab08.pdf){:target="_blank"}
   24       | 26.10.2022   | Examen Corto 2.  | [Corto 02](cortos/Corto02.pdf){:target="_blank"} <br/> **Fecha de Entrega: lunes 31 de octubre.**
   25       | 31.10.2022   | Máquinas de Turing III: Extensiones.  | 
-  26       |              |                                        | 
-  
+
+
   
 # Lecturas complementarias
 ### (Autores: T. Gálvez, B. Pojoy, P. Mejía y A. Reyes-Figueroa).
