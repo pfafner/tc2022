@@ -109,7 +109,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   
   **No.**  | **Fecha**    | **Tópicos**                                                           | **Recursos**
   -------- | ------------ | --------------------------------------------------------------------- |  -------------------------------------
-  2        | 31.10.2022   | Proyecto 2 - Algoritmo CYK, Funciones Lambda.                         | [Proyecto 2](projects/Proyecto_2_2022.pdf){:target="_blank"} 
+  2        | 31.10.2022   | Proyecto 2 - Algoritmo CYK y Funciones Lambda.                        | [Proyecto 2](projects/Proyecto_2_2022.pdf){:target="_blank"} 
   .        | 23.11.2022   | Presentación.                                                         |
   .        | 26.11.2022   | Entrega de informe final.                                             |
 
