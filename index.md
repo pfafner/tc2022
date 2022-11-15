@@ -96,6 +96,8 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   02       | 08.08.2022   | Lectura 2 - Conversión de AFNs a AFDs y construcción directa del AFD.      | [Lectura 2](lectures/Lectura02.pdf){:target="_blank"}
   03       | 22.08.2022   | Lectura 3 - Minimización de AFDs.                                          | [Lectura 3](lectures/Lectura03.pdf){:target="_blank"}
   04       | 05.10.2022   | Lectura 4 - Notación Asintótica.                                           | [Lectura 4](lectures/Lectura04.pdf){:target="_blank"}
+  05       | 24.10.2022   | Lectura 5 - Máquinas de Turing.                                            | [Lectura 5](lectures/Lectura05.pdf){:target="_blank"}
+  06       | 07.11.2022   | Lectura 6 - Complejidad.                                                   | [Lectura 6](lectures/Lectura06.pdf){:target="_blank"}
 
 
 # Proyectos
