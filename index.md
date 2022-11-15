@@ -115,7 +115,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
 
 Horarios para la presentación del segundo proyecto. **(23 de noviembre)**
 
-  **No.**  | **Hora**           | **Grupo **         
+  **No.**  | **Hora**           | **Grupo**         
   -------- | ------------------ | -----------------------
   1        | 7:00 pm - 7:15pm   | Equipo 9
   2        | 7:15 pm - 7:30pm   | Equipo 8
