@@ -79,9 +79,9 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   23       | 24.10.2022   | Más ejemplos de máquinas de Turing. <br/> [Aula 23](aulas/Aula23.pdf){:target="_blank"}  | 
   L8       | 26.10.2022   | Lab 08. <br/>  | [Lab 08](labs/Lab08.pdf){:target="_blank"}
   24       | 26.10.2022   | Examen Corto 2.  | [Corto 02](cortos/Corto02.pdf){:target="_blank"} <br/> **Fecha de Entrega: lunes 31 de octubre.**
-  25       | 31.10.2022   | Máquinas de Turing III: Extensiones.  | 
-  26       | 07.11.2022   | Computabilidad, Decidibilidad. Modelos computacionales.  | 
-  27       | 09.11.2022   | Cálculo Lambda.  | 
+  25       | 31.10.2022   | Máquinas de Turing III: Extensiones. <br/> [Aula 24](aulas/Aula24.pdf){:target="_blank"} | 
+  26       | 07.11.2022   | Computabilidad, Decidibilidad. Modelos computacionales. <br/> [Aula 25](aulas/Aula25.pdf){:target="_blank"} | 
+  27       | 09.11.2022   | Cálculo Lambda. <br/> [Aula 26](aulas/Aula26.pdf){:target="_blank"} | 
   28       | 09.11.2022   | Examen Corto <23.  | [Corto 03](cortos/Corto03.pdf){:target="_blank"} <br/> **Fecha de Entrega: domingo 13 de noviembre.**
   29       | 14.11.2022   | Resolución de dudas sobre el proyecto.  | 
 
