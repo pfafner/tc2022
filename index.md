@@ -112,7 +112,22 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   2        | 31.10.2022   | Proyecto 2 - Algoritmo CYK, Funciones Lambda.                         | [Proyecto 2](projects/Proyecto_2_2022.pdf){:target="_blank"} 
   .        | 23.11.2022   | Presentación.                                                         |
   .        | 26.11.2022   | Entrega de informe final.                                             |
+
+Horarios para la presentación del segundo proyecto. **(23 de noviembre)**
+
+  **No.**  | **Hora**           | **Grupo **         
+  -------- | ------------------ | -----------------------
+  1        | 7:00 pm - 7:15pm   | Equipo 9
+  2        | 7:15 pm - 7:30pm   | Equipo 8
+  3        | 7:30 pm - 7:45pm   | Equipo 1
+  4        | 7:45 pm - 8:00pm   | Equipo 7
+  5        | 8:00 pm - 8:15pm   | Equipo 4
+  6        | 8:15 pm - 8:30pm   | Equipo 2
+  7        | 8:30 pm - 8:45pm   | Equipo 5
+  8        | 8:45 pm - 9:00pm   | Equipo 3
+  9        | 9:00 pm - 9:15pm   | Equipo 10
   
+
   
 # Referencias
 <div id='id-ref'/> 
