@@ -84,6 +84,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   27       | 09.11.2022   | Cálculo Lambda. <br/> [Aula 26](aulas/Aula26.pdf){:target="_blank"} | 
   28       | 09.11.2022   | Examen Corto 3.  | [Corto 03](cortos/Corto03.pdf){:target="_blank"} <br/> **Fecha de Entrega: domingo 13 de noviembre.**
   29       | 14.11.2022   | Resolución de dudas sobre el proyecto.  | 
+  30       | 16.11.2022   | Clases de Complejidad. P vs NP. <br/>  Máquinas de turing universales. | 
 
   
 # Lecturas complementarias
