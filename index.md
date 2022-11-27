@@ -85,6 +85,7 @@ El curso tiene una carga fuerte en el tema de matemática y estructuras abstract
   28       | 09.11.2022   | Examen Corto 3.  | [Corto 03](cortos/Corto03.pdf){:target="_blank"} <br/> **Fecha de Entrega: domingo 13 de noviembre.**
   29       | 14.11.2022   | Resolución de dudas sobre el proyecto.  | 
   30       | 16.11.2022   | Clases de Complejidad. P vs NP. <br/>  Máquinas de turing universales. | 
+  31       | 23.11.2022   | Presentación de proyectos finales. | 
 
   
 # Lecturas complementarias
